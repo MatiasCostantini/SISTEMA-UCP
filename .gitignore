@@ -1,0 +1,7 @@
+node_modules/
+dist/
+out/
+npm-debug.log*
+.vscode/
+Thumbs.db
+Desktop.ini
